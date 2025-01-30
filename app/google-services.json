@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015933143356",
+    "project_id": "etiproject-2029b",
+    "storage_bucket": "etiproject-2029b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015933143356:android:c3cba55dead2a2e7bef639",
+        "android_client_info": {
+          "package_name": "com.example.mysecondapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yLhupReVpw-8AKQ4rSUGveksXDr8Jf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
